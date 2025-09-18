@@ -47,6 +47,8 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/uni7mau/uni7mau/output/snake.svg" width="100%" alt="Snake animation" />
+<div width="100%" align="center">
+  <img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25lenFoYjhuNWFuZHk1NDhleTl4ajEzNmEwYmsycmZ3b29uaHMzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsVlBMEaHdOEGQKLXB/giphy.gif" />
+</div>
 
 ###
