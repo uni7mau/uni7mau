@@ -12,12 +12,12 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: uni7mau
-          outputs: dist/snake.svg
+          outputs: /snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
