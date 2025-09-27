@@ -1,5 +1,4 @@
-<h2 align="center">Tôi là Hoàng Nam, đến từ động kỳ lân <br />
-🌈 Có thể bạn không biết: Không phải cứ 7 màu là gay 🌈 </h2>
+<h2 align="center">Tôi là Hoàng Nam, đến từ động kỳ lân</h2>
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm NovosAM" src="./assets/" /></a></p> -->
 
 ###
